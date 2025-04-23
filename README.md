@@ -14,10 +14,8 @@ This PowerPoint can be used during the guest lesson to guide students. Notes on 
 This folder contains the Jupyter notebooks for the exercises used in the guest lesson. You can download the files when you select them. We suggest uploading the files to Google Drive and opening them using the free add-on "Google Collab". The link to this can be shared easily, and students can access it from their laptops simply through a browser. This is useful as it does not require students to have preinstalled Python or any of its IDEs. The only prerequisite is that they have to have a Google account that they can use to log in. It is important to make copies of the files for all students so they can all make individual changes that will not affect other students' files.
 
 ## Flyer.pdf
-This is a flyer we prepared which includes information on all of the technical studies available at the Dutch Universities of Technology (Delft, Eindhoven and Twente). We also included some general tips for choosing a study and finding housing.
-
-This flyer contains an overview of technical studies given at TU Eindhoven, TU Delft and University of Twente. The flyer can be shared electronically or printed and handed out to students. It also includes a comparison of the three cities, as well as links to useful websites for students deciding what to study.
+This flyer contains an overview of technical studies given at TU Eindhoven, TU Delft and the University of Twente. The flyer can be shared electronically or printed and handed out to students. It also includes a comparison of the three cities, as well as links to useful websites for students deciding what to study.
 
 
 ## Other information
-Prepared in March 2025 by Ana Meker, Wiktor Kwapiński, and Claire Garretsen. Part of ASML technology scholarship ambassador project.
+Prepared in March 2025 by Ana Meker, Wiktor Kwapiński, and Claire Garretsen. Part of the ASML Technology Scholarship Ambassador Project.
